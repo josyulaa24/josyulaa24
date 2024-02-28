@@ -5,6 +5,8 @@
 - 🤔 I’m looking to learn  web design projects
 - 📫 How to reach me: josyulaa24@wpsma.org
 
+My portfolio: https://josyulaa24.github.io/Portfolio/
+
 ![octocat-1704392793810](https://github.com/josyulaa24/josyulaa24/assets/129077424/a8aa8da3-d747-451d-8583-bbd2665274eb)
   
 
